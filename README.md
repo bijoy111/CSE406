@@ -13,8 +13,7 @@
 
 ## Group Project | Snort 3
 `NIDS`
-- Project Proposal
-- >
+- Project Proposal: 
 We were assigned to explore the Snort 3 NIDS tool and explore the following features.
     - Snort 3 Installation
     - Intrusion Detection Setup
